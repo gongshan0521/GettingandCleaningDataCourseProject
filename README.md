@@ -8,4 +8,4 @@ This repo contains:
   2. FUCI HAR Dataset 
     * original dataset and also a folder named "tidy data" containing all the dataset produced during the analysis
   3. run_analysis.R
-    * the script to perform the data analysis
+    * the script to perform the data analysis; refer to CodeBook.md for detailed process
